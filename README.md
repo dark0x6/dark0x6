@@ -1,15 +1,9 @@
 <div align="center">
-**Founder & Developer @ [VIZU](https://vizu-world.com)**  
-[vizu-world.com](https://vizu-world.com) · [Discord](https://discord.gg/vizu)
+
+# Founder & Developer @ [VIZU](https://vizu-world.com)
 *About me: nil*
+
 </div>
-
----
-
-## :rocket: VIZU — Silent Build.
-> Founder of **[VIZU](https://vizu-world.com)**
-
----
 
 ## :computer: Tech Stack
 
@@ -51,7 +45,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+... 
 ---
 
 <div align="center">
