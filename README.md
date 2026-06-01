@@ -36,7 +36,6 @@
 
 ![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge)
 ![Cheat Engine](https://img.shields.io/badge/Cheat_Engine-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
