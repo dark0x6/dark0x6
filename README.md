@@ -1,6 +1,6 @@
 <div align="center">
 
-# dark0x6
+# Dark
 
 **Founder & Lead Developer @ [VIZU](https://vizu-world.com)**
 
